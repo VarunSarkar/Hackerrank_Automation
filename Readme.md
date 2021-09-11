@@ -1,3 +1,3 @@
 Hackerrank_Automation
 
-An Automation program to submit cde on hackerrank portal
+An Automation program to submit code on hackerrank portal
